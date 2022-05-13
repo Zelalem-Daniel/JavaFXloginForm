@@ -5,11 +5,11 @@
 
 ## Sample screenshots from the Login Form
 
-<img src="screnshots/Login.png" alt="Logn - Screen" width="400"/><br>
+<img src="Screnshots/Login123.png" alt="Logn - Screen" width="400"/><br>
 
-<img src="screnshots/Registration.png" alt="Registration - Screen" width="400"/><br>
+<img src="Screnshots/Signup.png" alt="Registration - Screen" width="400"/><br>
 
-<img src="screnshots/Successfull-login.png" alt="System Page - Screen" width="400"/><br>
+<img src="Screnshots/Logout.png" alt="System Page - Screen" width="400"/><br>
 
 ## Requirements
 
